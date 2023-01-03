@@ -26,6 +26,6 @@ For the search we must write exactly as the information is stored, for example: 
 
 We can add filters for the duration and comments info that could get different and more information base on these extra criteria.
 
-Add a button to make it easier for the user when they want to use at least one search box, also we can add simple instructions on how we can search and what are the criteria, like I we can use upper cases or not.
+Add a button to make it easier for the user when they want to use at least one search box, also we can add simple instructions on how we can search and what are the criteria, or If we can use upper cases or not.
 
 
